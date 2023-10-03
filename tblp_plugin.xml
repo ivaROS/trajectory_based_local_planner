@@ -1,0 +1,7 @@
+<library path="lib/libpips_ray_local_planner_ros">
+  <class name="trajectory_based_local_planner/PipsRayLocalPlannerROS" type="trajectory_based_local_planner::PipsRayLocalPlannerROS" base_class_type="trajectory_based_local_planner::TrajectoryBaseLocalPlanner">
+    <description>
+      A implementation of a local planner using pips ray based on configuration parameters.
+    </description>
+  </class>
+</library>
